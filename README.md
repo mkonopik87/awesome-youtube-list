@@ -116,7 +116,3 @@ Verified services/freelancers
 ## Contributing
 
 Found an awesome article, course, website or tool? Create a pull request! Just make sure to follow these [contribution guidelines](https://github.com/mkonopik87/awesome-youtube-list/blob/main/CONTRIBUTING.md).
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
